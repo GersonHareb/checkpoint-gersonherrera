@@ -1,0 +1,27 @@
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint
+$ git init
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (main)
+$ git remote add origin https://github.com/GersonHareb/checkpoint-gersonherrera.git
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (main)
+$ git add .
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (main)
+$ git commit -m "commit 01 de Gerson Herrera"
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (main)
+$ git checkout -b feature
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (feature)
+$ git add .
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (feature)
+$ git commit -m "commit 02 Gerson Herrera"
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (feature)
+$ git push origin feature
+
+gerso@DESKTOP-FNF1430 MINGW64 ~/Desktop/DIGITALHOUSE/Introduccion a la Informatica/checkpoint (feature)
+$ git checkout main
+
